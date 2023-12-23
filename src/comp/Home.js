@@ -15,7 +15,9 @@ const Home = () => {
           </>
         ) : (
           <>
-            <div className="text">Do you want to go out with me?</div>
+            <div className="text">
+              {"Would you like to go out with me, Sharmistha?"}
+            </div>
             <img className="imgA" src={love} alt="" />
             <div>
               <button
